@@ -1,0 +1,6 @@
+// Copy this file to supabase-config.js and paste your Supabase Project URL + anon/public key.
+// Never put the service_role key in website files.
+window.SHILPI_SUPABASE_CONFIG = {
+  url: "https://YOUR-PROJECT-ID.supabase.co",
+  anonKey: "YOUR_SUPABASE_ANON_PUBLIC_KEY"
+};
